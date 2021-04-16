@@ -1,8 +1,7 @@
-# TestCasesForAll
-The beginning to the backend Python skills test. Free to public, when finished. Open Source. Fun. Algorithm based.
+# Backend handling for a python skill test.
 # Features
 **Features to be explained in depth soon**
 1. Random generating arrays, no room for cheating!
-2. Will be server sided, so the program stays light.
-3. Will be free, unlike the others that charge upwards $200 for a subscription.
-4. Will be user fed; This project will have a contributors page, auto-test bot, and auto submission. Others will get to try out other people's programs!
+2. Can be server sided, so the program stays light.
+3. Free distribution
+4. Can be user fed
