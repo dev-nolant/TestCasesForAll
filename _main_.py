@@ -1,6 +1,6 @@
 import unittest
 import user_file_merge as user_file, original_merge as original
-import random
+import secrets
 
 temp_array = []
 
@@ -14,7 +14,7 @@ class SolutionCheck():
         self.i = 0
         #print("Generating")
         while self.i in range(10):
-            temp_array.append(random.randint(1, 100))
+            temp_array.append(secrets.SystemRandom().randint(1, 100))
             self.i += 1
         
     def original(self):
